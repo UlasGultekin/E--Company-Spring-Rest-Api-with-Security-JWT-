@@ -1,4 +1,4 @@
-# E--Companyy
+#E--Company-Spring-Rest-Api-with-Security-JWT
  E-Company
  ## Languages, Technologies and Environments Used in this Project
 | Spring  | JWT Security | MySql | IntelliJ  |
